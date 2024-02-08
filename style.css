@@ -52,3 +52,11 @@ body{
     align-items: center;
     width: 25px;
 }
+.instagram h3{
+     display: inline;
+}
+.button{
+ width: 90px;
+ height: 40px;
+ font-size: 15px;
+}
